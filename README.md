@@ -10,3 +10,14 @@ Output Link: [Sign Up Modal for Coffee Business Website](https://www.figma.com/p
 
 Output Image:
 ![Day 1 - Sign Up](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9971fe60-293c-4cbb-87cc-6b55ccab0ac8)
+
+https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=41-2&t=IUoXqjMa36M9yPAu-1&scaling=min-zoom&page-id=0%3A1&mode=design
+
+## Day 2: Credit Card Checkout
+
+Output Link: [Credit Card Checkout Form](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=41-2&t=IUoXqjMa36M9yPAu-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 2 - Credit Card Checkout](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4d904a98-d7bb-4418-80ac-fdfa1567848f)
+
+
