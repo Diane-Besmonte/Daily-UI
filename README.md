@@ -24,3 +24,10 @@ Output Link: [Landing Page for Chocolate Business](https://www.figma.com/proto/d
 
 Output Image:
 ![Day 3 - Landing Page](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4b7eb7f4-293f-4c35-be1a-6e72d3b66f96)
+
+## Day 4: Calculation
+
+Output Link: [Standard Calculator for Smartphone](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=73-21&t=uDxNnhiCrZKPQeMe-0&scaling=min-zoom&page-id=0%3A1)
+
+Output Image:
+![Day 4 - Calculation](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/c89d8649-f150-4554-aadf-5ce3ef566dcc)
