@@ -39,3 +39,14 @@ Output Link: [Standard Calculator for Smartphone](https://www.figma.com/proto/dG
 
 Output Image:
 ![Day 4 - Calculation](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/c89d8649-f150-4554-aadf-5ce3ef566dcc)
+
+## Day 5: App Icon
+
+Prompt: Design an app icon. What best represents the brand or product? Or is it incredibly unique? Does it look great at a distance and does it stand out when put on your home screen alongside other apps?
+
+Output Link: [App Icon design for a diary app](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=84-2&t=F4Mbdgn7WN5Yq7oC-0&scaling=min-zoom&page-id=0%3A1)
+
+Output Image:
+![Day 5 - App Icon](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4e667a48-49d3-4859-9139-cf34bab77f43)
+
+
