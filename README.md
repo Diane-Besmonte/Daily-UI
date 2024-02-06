@@ -57,7 +57,6 @@ Output Link: [User Profile from Reading Books Website](https://www.figma.com/pro
 
 Output Image:
 ![Day 6 - User Profile](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e0efeff2-7e50-40bb-a779-c8d29882e859)
-![Day 6 - User Profile Mockup](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e09219af-bad9-4155-b245-e630173ca404)
 
 
 
