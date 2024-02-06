@@ -1,4 +1,4 @@
-
+![Day 6 - User Profile Mockup](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/7209d4b3-49a7-4257-92a7-0968e6b43346)
 # Daily UI Challenge Outputs
 
 Welcome to my Daily UI Challenge repository! Here, you'll find a collection of my daily design outputs as part of the challenge. Explore my Daily UI Challenge journey, where I create simple and engaging user interfaces based on prompts I receive in my daily emails. Each design showcases my daily practice and creativity. Check out the collection and feel free to share your thoughts!
@@ -48,5 +48,17 @@ Output Link: [App Icon design for a diary app](https://www.figma.com/proto/dGuNg
 
 Output Image:
 ![Day 5 - App Icon](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4e667a48-49d3-4859-9139-cf34bab77f43)
+
+## Day 6: User Profile
+
+Prompt: Design a user profile and be mindful of the most important data, names, imagery, placement, etc. Is it for a serious profile? A social profile? (It's up to you!)
+
+Output Link: [User Profile from Reading Books Website](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=109-17&t=atdZ4VoxgnGrRXJx-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 6 - User Profile](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e0efeff2-7e50-40bb-a779-c8d29882e859)
+![Day 6 - User Profile Mockup](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e09219af-bad9-4155-b245-e630173ca404)
+
+
 
 
