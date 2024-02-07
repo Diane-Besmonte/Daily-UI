@@ -57,6 +57,13 @@ Output Link: [User Profile from Reading Books Website](https://www.figma.com/pro
 Output Image:
 ![Day 6 - User Profile](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e0efeff2-7e50-40bb-a779-c8d29882e859)
 
+## Day 7: Settings
 
+Prompt: Design settings for something. Is it for security or privacy settings? Game settings? Light mode vs. dark mode? System settings (sound, notifications, screen time, Wi-Fi, etc.? 
+
+Output Link: [User Settings for a Website](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=135-26&t=4g4217RE8EzagKVj-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 7 - Settings](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/bb0d896f-8f23-4346-96b2-02524f6cd407)
 
 
