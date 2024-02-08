@@ -67,3 +67,14 @@ Output Image:
 ![Day 7 - Settings](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/bb0d896f-8f23-4346-96b2-02524f6cd407)
 
 
+## Day 8: 404 Page Design
+
+Prompt: Does it suit the brand's style? Is it user-friendly? It might sound mundane, but not everything can be flashy or glamorous. Every day millions of people will be landing on 404 pages. You have an opportunity to help them in a way that's useful and aesthetically pleasing. (It's up to you!)
+
+Output Link: [404 Page Web Design](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=151-33&t=vPuz2QczTOkADiqa-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 8 - 404 Page Design](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/bb5419f3-cfcb-48a0-907a-a19abde7b88d)
+
+
+
