@@ -76,6 +76,19 @@ Output Link: [404 Page Web Design](https://www.figma.com/proto/dGuNgC7KZfhzi9iZy
 Output Image:
 ![Day 8 - 404 Page Design](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/b64c5de3-8dd7-47c6-99d7-2ad0b28a7fc5)
 
+## Day 9: Music Player
+
+Prompt: Design a music player. It could be browser based or an app (i.e. Pandora, Spotify, SoundCloud, etc.) or in a standalone product like in a car dashboard, jukebox, etc.
+ 
+Consider the controls, placements, imagery such as the artist or album cover, etc. Also, consider the device type that's playing the music. A dashboard in a tour bus, a smartwatch, or via a web browser. Each device type will have different requirements, features, and restrictions to consider.
+
+Output Link: [Browser based Music Player design](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=162-29&t=eCexLNmP7Uux6nQQ-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:![Day 9 - Music Player](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f2bb8f46-7048-463d-bb68-1f1b8eeffaef)
+
+
+
+
 
 
 
