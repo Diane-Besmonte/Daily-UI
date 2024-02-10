@@ -84,7 +84,18 @@ Consider the controls, placements, imagery such as the artist or album cover, et
 
 Output Link: [Browser based Music Player design](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=162-29&t=eCexLNmP7Uux6nQQ-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
-Output Image:![Day 9 - Music Player](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f2bb8f46-7048-463d-bb68-1f1b8eeffaef)
+Output Image:
+![Day 9 - Music Player](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f2bb8f46-7048-463d-bb68-1f1b8eeffaef)
+
+## Day 10: Social Share
+
+Prompt: Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing. It could be to share an article snippet, or a simple link with a photo.
+ 
+Output Link: [Blog Post Social Share](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=184-46&t=JyUgqEsbr3AJHQdV-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 10 - Social Share](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/2860d022-429c-4fd0-b5d5-6d84aa708c87)
+
 
 
 
