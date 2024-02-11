@@ -96,10 +96,13 @@ Output Link: [Blog Post Social Share](https://www.figma.com/proto/dGuNgC7KZfhzi9
 Output Image:
 ![Day 10 - Social Share](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/2860d022-429c-4fd0-b5d5-6d84aa708c87)
 
+## Day 11: Flash Message
 
+Prompt: Design a Flash Message with both the error message and success message. Is it for a sign up form? A download/upload message? Is it to promote a membership plan? 
+ 
+Output Link: [Flash Message for Community Registration](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=195-138&t=UA6WYqrSyq48WMrF-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
-
-
-
+Output Image:
+![Day 11 - Flash Message](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4d75b5ed-b9e1-4fd7-a176-e8a40077e30e)
 
 
