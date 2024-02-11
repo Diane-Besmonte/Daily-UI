@@ -103,6 +103,6 @@ Prompt: Design a Flash Message with both the error message and success message. 
 Output Link: [Flash Message for Community Registration](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=195-138&t=UA6WYqrSyq48WMrF-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
-![Day 11 - Flash Message](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4d75b5ed-b9e1-4fd7-a176-e8a40077e30e)
+![Day 11 - Flash Message](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/b59e1103-5699-4397-a9a9-0af4a05637ae)
 
 
