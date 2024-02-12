@@ -106,3 +106,16 @@ Output Image:
 ![Day 11 - Flash Message](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/b59e1103-5699-4397-a9a9-0af4a05637ae)
 
 
+## Day 12: E-commerce Shop
+
+Prompt: Design an e-commerce shop. Is it simple for a local business or a large online retailer? Is it for clothing, shoes, handmade soap, or something else? 
+
+Consider the brand, the products offered, product views, product options, desired actions (conversions, product views, pricing options, etc.) and of course, the users!
+ 
+Output Link: [E-Commerce Shop Product Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=215-23&t=LtiIELd0nUMP7QUq-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 12- E-Commerce Shop](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/80ba6f12-bd8e-4cf2-afdc-a3a79d700577)
+
+
+
