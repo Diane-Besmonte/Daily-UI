@@ -117,5 +117,12 @@ Output Link: [E-Commerce Shop Product Page](https://www.figma.com/proto/dGuNgC7K
 Output Image:
 ![Day 12- E-Commerce Shop](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/80ba6f12-bd8e-4cf2-afdc-a3a79d700577)
 
+## Day 13: Direct Message
 
+Prompt: Design a Direct Messaging app, profile, or chat box. Consider the parties involved in the messages, images, placement, and context of the messages. Are the messages for social purposes? Customer support?
+ 
+Output Link: [Direct Message](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=228-111&t=HG7wW1TEfrjUvaDb-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 13 - Direct Message](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/874462ca-772a-4c67-bc81-7167faef6948)
 
