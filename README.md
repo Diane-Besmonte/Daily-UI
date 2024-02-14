@@ -126,3 +126,15 @@ Output Link: [Direct Message](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN
 Output Image:
 ![Day 13 - Direct Message](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/874462ca-772a-4c67-bc81-7167faef6948)
 
+
+## Day 14: Countdown Timer
+
+Prompt: Is it for an app? An interface for an oven or cooking device? A sport related countdown such as on a scoreboard? Or is it a launch countdown for NASA, race cars, or something else?
+ 
+Output Link: [Pomodoro Timer](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=236-51&t=F9JcLY8vlHGluFvy-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 14 - Countdown Timer](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/690af2c3-91ac-46fa-8eea-187dcb74d669)
+
+
+
