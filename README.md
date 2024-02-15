@@ -136,5 +136,14 @@ Output Link: [Pomodoro Timer](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN
 Output Image:
 ![Day 14 - Countdown Timer](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/690af2c3-91ac-46fa-8eea-187dcb74d669)
 
+## Day 15: On/Off Switch
+
+Prompt: Consider what's being turned on/off and how it should be done. 
+Is it a push-to-start electric vehicle? A control panel for a smart refrigerator or some other touch-panel display?
+ 
+Output Link: [On/Off Switch Prototype](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=250-247&t=K2MO8HsjU9hexxlM-1&scaling=min-zoom&page-id=250%3A246&mode=design)
+
+Output Image:
+![Day 15 - OnOff Switch](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/6d375b68-e237-4a2a-b219-dccfe2bf32c6)
 
 
