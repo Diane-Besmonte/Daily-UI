@@ -155,6 +155,17 @@ Output Link: [Newsletter Pop Up](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqf
 Output Image:
 ![Day 16 - Pop-up Overlay](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e2fc5385-7294-48af-9f74-b0bcb58a5e8d)
 
+## Day 17: Purchase Receipt
+
+Prompt: What was purchased? On what date? How much was the item? And from what source and vendor? Consider other elements such as a customer support info, a tracking number or receipt number, business location/phone number/website, pictures if needed, and any other related elements. 
+
+Tip:  The bottoms and tops of receipts are usually really underutilized. They can be great places to inform customers about upcoming promotions, news, ask for feedback, or promote your social media with a QR code.
+ 
+Output Link: [Purchase Receipt for Children's Toy Business Website](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=275-43&t=nXUHGS7MhQCAmMGn-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 17 - Purchase Receipt](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ae7315dc-b7ae-4528-9918-be1122c58211)
+
 
 
 
