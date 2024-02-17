@@ -146,4 +146,16 @@ Output Link: [On/Off Switch Prototype](https://www.figma.com/proto/dGuNgC7KZfhzi
 Output Image:
 ![Day 15 - OnOff Switch](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/6d375b68-e237-4a2a-b219-dccfe2bf32c6)
 
+## Day 16: Pop-up Overlay
+
+Prompt: Is it for a newsletter sign-up form ? Is it an ad overlay? A gated subscription page such as for premium news or member-only access?
+ 
+Output Link: [Newsletter Pop Up](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=267-72&t=fnWSMyUSfUesjQwg-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 16 - Pop-up Overlay](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e2fc5385-7294-48af-9f74-b0bcb58a5e8d)
+
+
+
+
 
