@@ -166,6 +166,14 @@ Output Link: [Purchase Receipt for Children's Toy Business Website](https://www.
 Output Image:
 ![Day 17 - Purchase Receipt](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ae7315dc-b7ae-4528-9918-be1122c58211)
 
+## Day 18: Analytics Chart
+
+Prompt: Is it to be used for web or app usage, a health monitor, e-commerce or traffic analytics? Is it tracking sports or stock market performance? 
+ 
+Output Link: [Analytics Chart for Website Traffic Overview](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=281-44&t=azxfBwTdelNDgcWG-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 18 - Analytics Chart](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/704435c9-7a06-47ed-80b9-15720b48478c)
 
 
 
