@@ -175,6 +175,18 @@ Output Link: [Analytics Chart for Website Traffic Overview](https://www.figma.co
 Output Image:
 ![Day 18 - Analytics Chart](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/704435c9-7a06-47ed-80b9-15720b48478c)
 
+## Day 19: Leaderboard
+
+Prompt: Is it for gaming, sports, racing, politics, top sellers, the highest grossing movies, or something else? 
+ 
+Consider the important statistics to show, percentages, points, avatar pictures or logos, and the most critical elements. (Don't overwhelm the users with too much information). 
+ 
+Output Link: [Analytics Chart for Website Traffic Overview](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=289-487&t=RchyScEdihY6mKRy-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 19 - Leaderboard](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ad1fb134-7334-4f59-bb4c-a657d88694d7)
+
+
 
 
 
