@@ -186,6 +186,15 @@ Output Link: [Gaming Leaderboard](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyq
 Output Image:
 ![Day 19 - Leaderboard](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ad1fb134-7334-4f59-bb4c-a657d88694d7)
 
+## Day 20: Location Tracker
+
+Prompt: Consider the icon, placement, and purpose of the location. Are you mapping something? Is it a tracking beacon to find a friend or a tracking device such as a phone? Is the NSA or FBI tracking you? ;)
+ 
+Output Link: [Gaming Leaderboard]()
+
+Output Image:
+
+
 
 
 
