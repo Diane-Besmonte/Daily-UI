@@ -195,6 +195,17 @@ Output Link: [Mobile App Location Tracker](https://www.figma.com/proto/dGuNgC7KZ
 Output Image:
 ![Day 20 - Location Tracker](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/0ec33d24-deb8-4b20-b88f-06d6c03fa2fe)
 
+## Day 21: Home Monitoring Dashboard
+
+Prompt: Design a home monitoring dashboard. Be creative! What would make a dashboard visually appealing and fun to use, while also being mindful of its function? 
+ 
+Try to make it a realistic exercise as if it were your own dashboard... one that you need to refer to daily. What is the most relevant data and what's the most appropriate placement for it?
+ 
+Output Link: [Home Monitoring Dashboard Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=308-62&t=0x9LsikyH1SfrLFo-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 21 - Home Monitoring Dashboard](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/aae8211d-b47d-401e-933e-7b23f5032357)
+
 
 
 
