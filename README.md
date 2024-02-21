@@ -190,9 +190,10 @@ Output Image:
 
 Prompt: Consider the icon, placement, and purpose of the location. Are you mapping something? Is it a tracking beacon to find a friend or a tracking device such as a phone? Is the NSA or FBI tracking you? ;)
  
-Output Link: [Gaming Leaderboard]()
+Output Link: [Mobile App Location Tracker](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=297-55&t=NqvlmB9Pkd4hnbDt-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
+![Day 20 - Location Tracker](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/0ec33d24-deb8-4b20-b88f-06d6c03fa2fe)
 
 
 
