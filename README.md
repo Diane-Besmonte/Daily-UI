@@ -206,13 +206,17 @@ Output Link: [Home Monitoring Dashboard Page](https://www.figma.com/proto/dGuNgC
 Output Image:
 ![Day 21 - Home Monitoring Dashboard](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/aae8211d-b47d-401e-933e-7b23f5032357)
 
-## Day 22: Search
-Prompt: Design something search related. It could be a search bar, an advanced search window, or a search function. It could even be a page to search for hotel rooms, homes for sale, plane tickets, concert seats, or something else. 
+## Day 23: Onboarding
+Prompt: Are you recruiting people for an organization? Are people signing up for a new service or website? Is it welcoming people into a mobile app? 
  
-Output Link: [Beach Hotel Resort Directory/Search](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=326-54&t=SciwhsshEqVnh3LU-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+Onboarding might seem trivial, but it's the first experience your users have with your product or service. It's like the first page of a book and it can instantly excite them. If not implemented well, a bad onboarding experience could turn someone off of a brand completely. 
+ 
+Output Link: [Onboarding for TaskMaster](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=333-60&t=mKhQiWTug1ZhqBS7-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
-![Day 22 - Search](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/91109a5c-27af-4dfb-96ea-0dd170a66329)
+![Day 23 - Onboarding](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/11c233bb-571d-4c27-8c01-7166a7b38a3b)
+
+
 
 
 
