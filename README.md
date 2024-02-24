@@ -216,6 +216,18 @@ Output Link: [Onboarding for TaskMaster](https://www.figma.com/proto/dGuNgC7KZfh
 Output Image:
 ![Day 23 - Onboarding](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/11c233bb-571d-4c27-8c01-7166a7b38a3b)
 
+## Day 24: Boarding Pass
+Prompt: Consider the origin, the destination, gates, seats, the airline, etc. 
+Is it for a multi-stop trip, round-trip, or one-way journey? 
+ 
+Boarding passes are sometimes used to promote additional information such as credit card offers, frequent flyer programs, or partner deals with local hotels and resorts. 
+ 
+Output Link: [Airlines Boarding Pass](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=346-43&t=LzJSzhdDXreom8vC-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 24 - Boarding Pass](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/2acce8e0-4536-454c-8ba0-3561325c5592)
+
+
 
 
 
