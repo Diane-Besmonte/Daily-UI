@@ -227,6 +227,18 @@ Output Link: [Airlines Boarding Pass](https://www.figma.com/proto/dGuNgC7KZfhzi9
 Output Image:
 ![Day 24 - Boarding Pass](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/2acce8e0-4536-454c-8ba0-3561325c5592)
 
+## Day 25: TV App
+Prompt: What type of app is it? What are the features/controls such as volume, favorites, closed captions, or other languages? Does it have a carousel selection feature? 
+ 
+Would it be important to have a “Continue Watching” area? Or other recommendations such as most viewed, recently added, etc.? 
+ 
+Output Link: [TV App](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=352-41&t=LdSgpLNl4yQq9pwU-1&scaling=min-zoom&page-id=0%3A1)
+
+Output Image:
+![Uploading Day 25 - TV App.png…]()
+
+
+
 
 
 
