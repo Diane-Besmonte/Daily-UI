@@ -237,7 +237,15 @@ Output Link: [TV App](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-U
 Output Image:
 ![Day 25 - TV App](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/949e6a79-8116-4aef-b681-80029162d742)
 
+## Day 26: Subscribe
+Prompt: What is a person subscribing to? A streaming service, a video course, or a consultation service? Is it just a button or a widget?
+ 
+What type of information are you looking to capture from the user? Their name and email? Their country, state, or postal code? Age consent? Something else?
+ 
+Output Link: [Newsletter Subscription](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=362-229&t=tVsJR9kWnhRFTfYI-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
+Output Image:
+![Uploading Day 26 - Subscribe.png…]()
 
 
 
