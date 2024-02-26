@@ -252,6 +252,3 @@ Output Image:
 
 
 
-
-
-
