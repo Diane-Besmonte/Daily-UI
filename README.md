@@ -235,9 +235,7 @@ Would it be important to have a “Continue Watching” area? Or other recommend
 Output Link: [TV App](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=352-41&t=LdSgpLNl4yQq9pwU-1&scaling=min-zoom&page-id=0%3A1)
 
 Output Image:
-![Uploading Day 25 - TV App.png…]()
-
-
+![Day 25 - TV App](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/949e6a79-8116-4aef-b681-80029162d742)
 
 
 
