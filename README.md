@@ -245,7 +245,9 @@ What type of information are you looking to capture from the user? Their name an
 Output Link: [Newsletter Subscription](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=362-229&t=tVsJR9kWnhRFTfYI-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
-![Uploading Day 26 - Subscribe.png…]()
+![Day 26 - Subscribe](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ce13357a-b2c9-46d0-ac6e-ec98472446a0)
+
+
 
 
 
