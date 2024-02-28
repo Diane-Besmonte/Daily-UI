@@ -247,6 +247,17 @@ Output Link: [Newsletter Subscription](https://www.figma.com/proto/dGuNgC7KZfhzi
 Output Image:
 ![Day 26 - Subscribe](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ce13357a-b2c9-46d0-ac6e-ec98472446a0)
 
+## Day 26: Dropdown
+Prompt: Is it a menu dropdown? Or a tip that's dropped down during a tutorial? Or inside of a software tool to show more features? 
+ 
+What extra information is displayed? The current price of gold? A login/logout button? Menu selections?
+ 
+Output Link: [Website Navigation Menu Dropdown](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=377-71&t=lF98LllgxuyhmL4D-1&scaling=min-zoom&page-id=0%3A1)
+
+Output Image:
+![Day 27 - Dropdown](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/89b49bc0-94e7-4525-b83e-9854674d7eda)
+
+
 
 
 
