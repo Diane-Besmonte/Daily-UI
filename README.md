@@ -247,7 +247,7 @@ Output Link: [Newsletter Subscription](https://www.figma.com/proto/dGuNgC7KZfhzi
 Output Image:
 ![Day 26 - Subscribe](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ce13357a-b2c9-46d0-ac6e-ec98472446a0)
 
-## Day 26: Dropdown
+## Day 27: Dropdown
 Prompt: Is it a menu dropdown? Or a tip that's dropped down during a tutorial? Or inside of a software tool to show more features? 
  
 What extra information is displayed? The current price of gold? A login/logout button? Menu selections?
@@ -256,6 +256,17 @@ Output Link: [Website Navigation Menu Dropdown](https://www.figma.com/proto/dGuN
 
 Output Image:
 ![Day 27 - Dropdown](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/89b49bc0-94e7-4525-b83e-9854674d7eda)
+
+## Day 28: Contact Page
+
+Prompt: Is it for customer support? A purchase inquiry? To schedule an appointment? Is it a full page or just a form? Imagine a scenario and the most important feature it would require. 
+ 
+Contact pages are some of the most visited pages on websites so it's important to have the most critical information, but not so much that people get lost.
+ 
+Output Link: [Vivid Visions Website Contact page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=408-45&t=3wo4ieNxl0Wc0qGp-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 28 - Contact Page](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4d79c03e-3d97-4c48-a19a-7c0a6985e520)
 
 
 
