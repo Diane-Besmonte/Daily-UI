@@ -268,8 +268,16 @@ Output Link: [Vivid Visions Website Contact page](https://www.figma.com/proto/dG
 Output Image:
 ![Day 28 - Contact Page](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4d79c03e-3d97-4c48-a19a-7c0a6985e520)
 
+## Day 29: Map Design
 
+Prompt: Not one of those old school paper ones though. Actually, that might be kinda neat. ;)
+ 
+What type of information should it have? Should its color scheme compliment the brand? Is it for food delivery? Or an interactive map of train stations?
+ 
+Output Link: [Map Design UI](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=435-43&t=uhRJc7bPpY861X18-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
+Output Image:
+![Day 29 - Map Design](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ab93643e-9a11-4045-9879-7ee0aebbdd75)
 
 
 
