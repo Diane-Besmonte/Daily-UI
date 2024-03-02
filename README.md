@@ -279,6 +279,18 @@ Output Link: [Map Design UI](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/
 Output Image:
 ![Day 29 - Map Design](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ab93643e-9a11-4045-9879-7ee0aebbdd75)
 
+## Day 30: Pricing
+
+Prompt: Is it a pricing table for a SaaS website? An in-app purchase? Or upgrade options for a restaurant menu?
+ 
+Displaying prices in an easy-to-read format is a good design and business practice. Make the price obvious and don't try to hide anything. Overly complex pricing tables or designs create confusion and consequently a lack of trust… bad for both business and design.
+ 
+Output Link: [Pricing Cards](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=445-54&t=VCNNXiu2IV8kT8m9-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 30 - Pricing](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/7368e297-07e1-47c6-8fdf-9d903c4c3762)
+
+
 
 
 
