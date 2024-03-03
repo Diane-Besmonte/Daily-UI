@@ -290,6 +290,19 @@ Output Link: [Pricing Cards](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/
 Output Image:
 ![Day 30 - Pricing](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/7368e297-07e1-47c6-8fdf-9d903c4c3762)
 
+## Day 31: File Upload
+
+Prompt: Is it the loading screen and an icon? A progress element? Are folders being uploaded by flying across the screen like Ghostbusters? ;)
+ 
+Would a user need to input additional information such as tax data or attach an image (like an identification card) during the process?
+ 
+Output Link: [File Upload Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=456-54&t=8gjUcLXDFfmbo7TD-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 31 - File Upload](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f3665128-ed9b-4725-af23-b51b2e441aaa)
+
+
+
 
 
 
