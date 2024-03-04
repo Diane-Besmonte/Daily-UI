@@ -312,10 +312,7 @@ So what's really important? The number of contributors, the total amount raised,
 Output Link: [Crowdfunding Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=462-58&t=6FkZXxuEZXXDy8TL-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
-
-
-
-
+![Day 32 - Crowdfunding](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/0ca4d0d0-43ac-4dc7-b157-774895adbe3d)
 
 
 
