@@ -301,6 +301,19 @@ Output Link: [File Upload Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfU
 Output Image:
 ![Day 31 - File Upload](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f3665128-ed9b-4725-af23-b51b2e441aaa)
 
+## Day 32: Crowdfunding
+
+Prompt: Keep in mind the purpose... raising funds. It's important to make a design simple and compelling if you're seeking money. Is it for startups to raise money from investors? (Such as on WeFunder, Republic, StartEngine)
+ 
+Or raising funds for a community cause like funding the restoration of a historical monument?
+ 
+So what's really important? The number of contributors, the total amount raised, campaign details, and highlights? Also consider size, imagery, placement, slogans, etc.
+ 
+Output Link: [Crowdfunding Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=462-58&t=6FkZXxuEZXXDy8TL-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+
+
 
 
 
