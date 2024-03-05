@@ -314,6 +314,19 @@ Output Link: [Crowdfunding Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqf
 Output Image:
 ![Day 32 - Crowdfunding](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/0ca4d0d0-43ac-4dc7-b157-774895adbe3d)
 
+## Day 33: Customize Product
+
+Prompt: Design something related to customizing a product. It could be a custom t-shirt, stickers, shoes, etc. Or is this someone customizing their phone's text and lock screen?
+ 
+What elements does a custom product need? A logo, an image, extra text, or something else?
+ 
+Output Link: [Customized Product Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=471-42&t=FiN9170C2nCr9onv-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 33 - Customize Product](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/95451982-e4d9-47e8-af50-4d4d76b54734)
+
+
+
 
 
 
