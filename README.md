@@ -325,8 +325,14 @@ Output Link: [Customized Product Page](https://www.figma.com/proto/dGuNgC7KZfhzi
 Output Image:
 ![Day 33 - Customize Product](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/95451982-e4d9-47e8-af50-4d4d76b54734)
 
+## Day 34: Automotive Interface
 
+Prompt: Consider the elements you'd want and need in your own vehicle's dashboard. If you don't have a car, think of what's needed to control one in a video game, a VR headset, or in a movie. Be creative, yet logical.
+ 
+Output Link: [Automotive Interface UI](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=482-45&t=pfqkoCFZ0P6ADMu7-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
+Output Image:
+![Day 34 - Automotive Interface](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9d90776d-ee77-47ba-aeef-a4e8272a61dd)
 
 
 
