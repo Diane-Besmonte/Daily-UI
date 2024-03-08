@@ -334,5 +334,17 @@ Output Link: [Automotive Interface UI](https://www.figma.com/proto/dGuNgC7KZfhzi
 Output Image:
 ![Day 34 - Automotive Interface](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9d90776d-ee77-47ba-aeef-a4e8272a61dd)
 
+## Day 35: Blog Post
+
+Prompt: Consider what's important- the content of course. Also consider the author, date, category, comments, layout, etc. 
+ 
+Are you viewing it as the author (with extra features for editing content) or a reader?
+ 
+Output Link: [Website Blog Post](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=490-45&t=hVdsbIixALpdPP2s-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 35 - Blog Post](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/05ac2646-89af-4ad6-bc2f-158e8d5cc0d1)
+
+
 
 
