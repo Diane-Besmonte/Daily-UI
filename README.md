@@ -345,6 +345,19 @@ Output Link: [Website Blog Post](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqf
 Output Image:
 ![Day 35 - Blog Post](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/05ac2646-89af-4ad6-bc2f-158e8d5cc0d1)
 
+## Day 36: Special Offer
+
+Prompt: Design a promo. What is the product and how is it being promoted? Is it an email promotion, a clearance item on a website, a “Buy One, Get One” offer, or something else? 
+ 
+Is it the discount size or percentage that's important? Does it look compelling?
+ 
+Output Link: [Special Promo Sale Modal](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=490-170&t=mchr8WjLbUU5acie-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 36 - Special Offer](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d8aced8d-f91d-48cf-9910-7e49266c6e64)
+
+
+
 
 
 
