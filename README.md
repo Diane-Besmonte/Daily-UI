@@ -357,7 +357,15 @@ Output Image:
 ![Day 36 - Special Offer](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d8aced8d-f91d-48cf-9910-7e49266c6e64)
 
 
+## Day 37: Weather Design
 
+Prompt: It could be a UI for a mobile app, a web app, or something completely different such as a weather alert widget. Consider its elements: city, temperature, forecasts, colors, weather icons/graphics, etc.
+ 
+Is it being viewed on a smart watch or phone? Is it a weather warning for a storm or is it something unique such as something for a farm? 
+ 
+Output Link: [Weather Report Webpage](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=500-45&t=ezNGMpxAF9zuQN6m-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
+Output Image:
+![Day 37 - Weather Design](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/95fa1057-06c4-4b9e-898f-233e4099d55b)
 
 
