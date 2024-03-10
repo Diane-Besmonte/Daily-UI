@@ -369,3 +369,18 @@ Output Image:
 ![Day 37 - Weather Design](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/95fa1057-06c4-4b9e-898f-233e4099d55b)
 
 
+## Day 38: Calendar
+
+Prompt: Design a Calendar focused element. Is it for scheduling an appointment? A reservation, flight, hotel, or a health check? Is it a calendar reminder feature? Is it used in email or for something else entirely?
+ 
+It could even be a calendar booking page for design services. Or an interactive online holiday calendar. 
+ 
+Output Link: [Calendar with Task List](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=506-45&t=Y2bOXnjjlGMqmrA9-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 38 - Calendar](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e5954b41-7f46-4177-92fb-63684621bf92)
+
+
+
+
+
