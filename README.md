@@ -381,6 +381,18 @@ Output Image:
 ![Day 38 - Calendar](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e5954b41-7f46-4177-92fb-63684621bf92)
 
 
+## Day 39: Testimonial
+
+Prompt: Create a design with some kind of testimonial. It could be a book or product review testimonial. Who is the customer? What did they buy and why did they enjoy it? Is there a star rating or a 1-10 style review? 
+ 
+Testimonials help build trust with an audience so these can be especially important elements for a website.
+ 
+Output Link: [Testimonials Section](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=519-45&t=Ycg6XuBUhgzWJ59l-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+
+
+
 
 
 
