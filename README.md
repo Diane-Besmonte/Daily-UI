@@ -387,7 +387,7 @@ Prompt: Create a design with some kind of testimonial. It could be a book or pro
  
 Testimonials help build trust with an audience so these can be especially important elements for a website.
  
-Output Link: [Testimonials Section](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=519-45&t=Ycg6XuBUhgzWJ59l-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+Output Link: [Testimonials Section](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=524-508&t=ye8XTrTC7GLN3QRj-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
 ![Day 39 - Testimonial](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/2a9c006a-1139-4243-96f9-84a4a9cbf0dd)
