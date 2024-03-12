@@ -392,5 +392,18 @@ Output Link: [Testimonials Section](https://www.figma.com/proto/dGuNgC7KZfhzi9iZ
 Output Image:
 ![Day 39 - Testimonial](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/2a9c006a-1139-4243-96f9-84a4a9cbf0dd)
 
+## Day 40: Recipe or Food Order
+
+Prompt: Design a food related recipe. It could displayed on a tablet while someone is cooking in their home kitchen or in the back of a restaurant on a Kitchen Display System (aka KDS).
+ 
+Clarity is important because a restaurant or online food ordering service needs to be simple in order to be fast for customers to find what they want and how it can be customized. Confusing menus or recipes slow down the kitchen and the entire business.
+ 
+Output Link: [Food Recide Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=548-71&t=RbCfDpATqUCoyQTv-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 40 - Testimonial](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f65c0228-030c-4e42-9d7b-397663ecdcf5)
+
+
+
 
 
