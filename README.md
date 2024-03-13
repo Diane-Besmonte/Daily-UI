@@ -404,6 +404,20 @@ Output Image:
 ![Day 40 - Testimonial](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f65c0228-030c-4e42-9d7b-397663ecdcf5)
 
 
+## Day 41: Workout / Exercise
+
+Prompt: Create a UI related for monitoring health or tracking various workout/training routines. It could be for a personal workout, for a team, or even gym equipment tracking customer workouts.
+ 
+Making a health app that is fun to use makes the entire experience more enjoyable and therefore more likely to be repeated. 
+ 
+Tip: exercise regularly to get blood and oxygen flowing for health, better sleep, and to boost your creative mood. It's easier to be happy if you're healthy. :)
+ 
+Output Link: [Workout/Exercise App](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=555-85&t=uhX6pzlFK7OMgklG-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 41 - Workout  Exercise](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/faca34ec-7ebf-4551-8a0c-48e29fc746e4)
+
+
 
 
 
