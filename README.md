@@ -417,6 +417,17 @@ Output Link: [Workout/Exercise App](https://www.figma.com/proto/dGuNgC7KZfhzi9iZ
 Output Image:
 ![Day 41 - Workout  Exercise](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/faca34ec-7ebf-4551-8a0c-48e29fc746e4)
 
+## Day 42: To-Do List or Manager
+
+Prompt: Everyone has priorities. Working in technology is a never-ending flow of new projects, requests, revisions, and more. 
+ 
+What productivity software or tool would you use to improve your workflow?
+ 
+Output Link: [Todo List Project](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=562-78&t=KknhKhWTBg0Mev21-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 42 - To-Do List or Manager](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/15bbcc46-350e-45ca-a091-3e312e861dbd)
+
 
 
 
