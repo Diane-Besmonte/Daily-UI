@@ -426,7 +426,18 @@ What productivity software or tool would you use to improve your workflow?
 Output Link: [Todo List Project](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=562-78&t=KknhKhWTBg0Mev21-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
-![Day 42 - To-Do List or Manager](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/15bbcc46-350e-45ca-a091-3e312e861dbd)
+![Day 42 - To-Do List or Manager Demo GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/741976bc-7a68-47b4-89f6-a3742d5da126)
+
+## Day 43: Food Menu Items
+
+Prompt: Create a food menu for a bar or restaurant. It could be a simple coffee shop or a more complex menu such as for a pizza restaurant (with multiple sizes, toppings, variations, etc.).
+ 
+Or is it for a touchscreen tabletop ordering system at a nightclub? You can be creative here.
+ 
+Output Link: [Blossom Bistro Menu](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=580-921&t=SXmbRJfkhuApE7aZ-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 43 - Food Menu Items](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/22cb6298-b693-4785-b44a-71765f33f90d)
 
 
 
