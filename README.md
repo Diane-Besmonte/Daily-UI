@@ -439,6 +439,16 @@ Output Link: [Blossom Bistro Menu](https://www.figma.com/proto/dGuNgC7KZfhzi9iZy
 Output Image:
 ![Day 43 - Food Menu Items](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/22cb6298-b693-4785-b44a-71765f33f90d)
 
+## Day 44: Favorites
+
+Prompt: Bookstores, video games, podcasts, and streaming services all have a favorites section. 
+ 
+Are you favoriting certain items? Or are you favoriting something on a website such as Facebook, Behance, Github, etc.?
+ 
+Output Link: [Song Favorites List Webpage](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=616-182&t=vu0LvQBnd6pjbFAY-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 44 - Favorites](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/a84c682f-9b82-4cb6-87bb-801dd2a93895)
 
 
 
