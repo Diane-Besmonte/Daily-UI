@@ -1,4 +1,4 @@
-# Daily UI Challenge Outputs
+![Day 45 - Info Card](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f1dfb990-0b20-4469-8565-32834d15dc68)# Daily UI Challenge Outputs
 
 Welcome to my Daily UI Challenge repository! Here, you'll find a collection of my daily design outputs as part of the challenge. Explore my Daily UI Challenge journey, where I create simple and engaging user interfaces based on prompts I receive in my daily emails. Each design showcases my daily practice and creativity. Check out the collection and feel free to share your thoughts!
 
@@ -449,6 +449,21 @@ Output Link: [Song Favorites List Webpage](https://www.figma.com/proto/dGuNgC7KZ
 
 Output Image:
 ![Day 44 - Favorites](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/a84c682f-9b82-4cb6-87bb-801dd2a93895)
+
+## Day 45: Info Card
+
+Prompt: These are designed to be snippets of information - so not too much, just the basics. 
+ 
+What's being viewed? Is it a small information area about a home for sale? (square footage, # of bathrooms and bedrooms, year built)
+ 
+Or a gamer's profile page with some recent statistics?
+ 
+Output Link: [Event Info Card](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=623-183&t=QvBvueiFXKAKUWCp-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 45 - Info Card](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/b6e8e283-3e35-4976-8901-95bed56b1b9c)
+
+
 
 
 
