@@ -463,8 +463,17 @@ Output Link: [Event Info Card](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUk
 Output Image:
 ![Day 45 - Info Card](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/b6e8e283-3e35-4976-8901-95bed56b1b9c)
 
+## Day 46: Invoice
 
+Prompt: Invoices are generally sent for products or services before or after fulfillment. For example, a web designer or software engineer might send an invoice for a new website with 25% as a downpayment and the remainder on completion. 
+ 
+This is not a quote or proposal, so it should have only the required information for payment, services rendered, prices, etc. and ideally a link/button to receive payment. 
+ 
+Tip: An invoice is a nice opportunity to thank a client. Uplifting comments can put clients in a good mood. If you know them in a personal/friendly context, sometimes a meme can help break the ice on making a payment. :)
+ 
+Output Link: [EcoCraft Creations Invoice](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=623-312&t=J7HFXAW2xMxLgqwP-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
-
+Output Image:
+![Day 46 - Invoice](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/1124f010-0dc5-4378-9075-b9bfec8583a0)
 
 
