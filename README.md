@@ -1,4 +1,6 @@
-![Day 45 - Info Card](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f1dfb990-0b20-4469-8565-32834d15dc68)# Daily UI Challenge Outputs
+![image](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/58cbb010-e7f4-4a24-8d22-d544f2a72eb3)
+
+# Daily UI Challenge Outputs
 
 Welcome to my Daily UI Challenge repository! Here, you'll find a collection of my daily design outputs as part of the challenge. Explore my Daily UI Challenge journey, where I create simple and engaging user interfaces based on prompts I receive in my daily emails. Each design showcases my daily practice and creativity. Check out the collection and feel free to share your thoughts!
 
@@ -475,5 +477,18 @@ Output Link: [EcoCraft Creations Invoice](https://www.figma.com/proto/dGuNgC7KZf
 
 Output Image:
 ![Day 46 - Invoice](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/1124f010-0dc5-4378-9075-b9bfec8583a0)
+
+## Day 47: Activity Feed
+
+Prompt: Everyday we're overwhelmed with information.
+ 
+Design an activity feed that's fun and useful. It could be for a news reader app, a social media site, or for inspirational travel content updates.
+ 
+Output Link: [Activity Feed/Notifications](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=634-167&t=agQrK4oQA5ppMqnb-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 47 - Activity Feed](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d1b3dddc-a59e-4b31-b9cb-20cf560b8f44)
+
+
 
 
