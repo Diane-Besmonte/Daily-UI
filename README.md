@@ -489,6 +489,19 @@ Output Link: [Activity Feed/Notifications](https://www.figma.com/proto/dGuNgC7KZ
 Output Image:
 ![Day 47 - Activity Feed](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d1b3dddc-a59e-4b31-b9cb-20cf560b8f44)
 
+## Day 48: 
+
+Prompt: What's coming soon? A new video game? A new blockbuster film? When and where is it being released? 
+ 
+Or is this for a specific company or product announcement? 
+Some brands are famous for their teaser and coming soon pages. It's an opportunity to excite and/or educate your users.
+ 
+Output Link: [Coming Soon Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=660-167&t=LC7dL8fWiAUxF1l8-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 48 - Coming Soon](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/3b9f3355-939b-488a-9365-59a004e7a1ec)
+
+
 
 
 
