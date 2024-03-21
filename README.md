@@ -489,7 +489,7 @@ Output Link: [Activity Feed/Notifications](https://www.figma.com/proto/dGuNgC7KZ
 Output Image:
 ![Day 47 - Activity Feed](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d1b3dddc-a59e-4b31-b9cb-20cf560b8f44)
 
-## Day 48: 
+## Day 48: Coming Soon
 
 Prompt: What's coming soon? A new video game? A new blockbuster film? When and where is it being released? 
  
@@ -499,7 +499,18 @@ Some brands are famous for their teaser and coming soon pages. It's an opportuni
 Output Link: [Coming Soon Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=660-167&t=LC7dL8fWiAUxF1l8-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
-![Day 48 - Coming Soon](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/3b9f3355-939b-488a-9365-59a004e7a1ec)
+![Day 48 - Coming Soon](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4165e199-b7c8-4c2f-a525-9cd53ec5a16d)
+
+## Day 49: Notification
+
+Prompt: Today's challenge is super simple. 
+ 
+Just a plain and easy notification. It could be a daily reminder to take medication, a new message received notification, or app updates.
+ 
+Output Link: [Mobile Notifications](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=673-179&t=ImClrBujhWq4AmOs-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 49 - Notification](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f2efc5a4-73b3-41bf-a67e-5225e6acbe21)
 
 
 
