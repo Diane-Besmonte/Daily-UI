@@ -496,7 +496,8 @@ Prompt: What's coming soon? A new video game? A new blockbuster film? When and w
 Or is this for a specific company or product announcement? 
 Some brands are famous for their teaser and coming soon pages. It's an opportunity to excite and/or educate your users.
  
-Output Link: [Coming Soon Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=660-167&t=LC7dL8fWiAUxF1l8-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+Output Link: 
+[Coming Soon Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=660-167&t=LC7dL8fWiAUxF1l8-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
 ![Day 48 - Coming Soon](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4165e199-b7c8-4c2f-a525-9cd53ec5a16d)
@@ -507,10 +508,24 @@ Prompt: Today's challenge is super simple.
  
 Just a plain and easy notification. It could be a daily reminder to take medication, a new message received notification, or app updates.
  
-Output Link: [Mobile Notifications](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=673-179&t=ImClrBujhWq4AmOs-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+Output Link: 
+[Mobile Notifications](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=673-179&t=ImClrBujhWq4AmOs-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
 ![Day 49 - Notification](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f2efc5a4-73b3-41bf-a67e-5225e6acbe21)
+
+## Day 50: Job Listing or Hiring Page
+
+Prompt: Who is hiring? What's the position? Where is it located? Are there benefits? 
+ 
+Hiring pages are a great opportunity for brands to give fun facts about their team. That can help prospective employees learn something interesting that could inspire them. For example, a team page might say “We take an annual team vacation to Hawaii.”
+ 
+Output Link: [Job Listing Directory Website](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=693-189&t=8hNA9SW51K4L3d8R-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 50 - Job Listing or Hiring Page](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/98728e9a-1c3e-4eb8-b8bf-5f5ad4ab9f2c)
+
+
 
 
 
