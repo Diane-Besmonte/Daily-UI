@@ -525,7 +525,14 @@ Output Link: [Job Listing Directory Website](https://www.figma.com/proto/dGuNgC7
 Output Image:
 ![Day 50 - Job Listing or Hiring Page](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/98728e9a-1c3e-4eb8-b8bf-5f5ad4ab9f2c)
 
+## Day 51: Press Page
 
+Prompt: Create a Press Page design. Think about who you are representing and what important information you should convey. Is it for a new startup? A huge global brand? A nonprofit organization? Or a small local business? Or is it actually for a person such as a celebrity, athlete, politician, etc.?
+ 
+Output Link: [Press and Media Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=702-196&t=Hp4rxflh7fjurFVW-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 52 - Press Page](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/32e2de6f-cc7f-4269-bd56-b01326ab060f)
 
 
 
