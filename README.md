@@ -534,6 +534,19 @@ Output Link: [Press and Media Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZ
 Output Image:
 ![Day 52 - Press Page](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/32e2de6f-cc7f-4269-bd56-b01326ab060f)
 
+## Day 52: Logo Design
+
+Prompt: Will it be animated? In what capacity will it be used?
+Branding is generally a serious matter for most companies and the considerations for size, placement, color, etc. should be thought out carefully.
+ 
+The biggest brands don't always have the best logos. A great logo is one that compliments a specific purpose and not necessarily a generic image or name. For example, Nike uses a swoosh which shows motion and speed - core parts of their running image. Mailchimp showcases a monkey rather than an “email” icon and it adds depth and character to their brand. 
+ 
+Good luck 🤩
+ 
+Output Link: [PixelForge Logo](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=706-478&t=zVwtoydyXdX453ah-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 53 - Logo Design](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/cf11a8ca-6200-469d-b923-859b988181e6)
 
 
 
