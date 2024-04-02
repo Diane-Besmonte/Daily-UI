@@ -559,6 +559,15 @@ Output Link: [Creative Canvas Navigation](https://www.figma.com/proto/dGuNgC7KZf
 Output Image:
 ![Day 53 - Website Navigation](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9cbbd659-dd47-426d-8901-67bf5fc90375)
 
+## Day 54: Confirmation
+
+Prompt: Design a Confirmation UI element. What's being confirmed? Is it confirming an address, order, shipping, plane tickets, hotel reservation, dinner reservation, booking tickets to the opera, or something else? Also consider where it's occurring (i.e. website, mobile app, email confirmation, etc.)
+ 
+Output Link: [Dinner Reservation Confirmation](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=726-888&t=BdKZRHaKfbiMCo36-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 54 - Confirmation](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d3088a1f-c62c-4878-93b4-a5e006ca87f1)
+
 
 
 
