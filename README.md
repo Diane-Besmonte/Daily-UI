@@ -548,6 +548,17 @@ Output Link: [PixelForge Logo](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUk
 Output Image:
 ![Day 53 - Logo Design](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/cf11a8ca-6200-469d-b923-859b988181e6)
 
+## Day 53: Website Navigation
+
+Prompt: Most websites have a navbar that's stuffed with links and logos. 
+ 
+What could you design that's both functional and appealing? How could you make it unique?
+ 
+Output Link: [Creative Canvas Navigation](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=722-170&t=isz3Thev41yvna2I-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 53 - Website Navigation](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9cbbd659-dd47-426d-8901-67bf5fc90375)
+
 
 
 
