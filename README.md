@@ -1,5 +1,3 @@
-![Day 55 - Icon Set](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ab87579b-e88e-4def-bfe6-65ccfccf6019)![image](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/58cbb010-e7f4-4a24-8d22-d544f2a72eb3)
-
 # Daily UI Challenge Outputs
 
 Welcome to my Daily UI Challenge repository! Here, you'll find a collection of my daily design outputs as part of the challenge. Explore my Daily UI Challenge journey, where I create simple and engaging user interfaces based on prompts I receive in my daily emails. Each design showcases my daily practice and creativity. Check out the collection and feel free to share your thoughts!
