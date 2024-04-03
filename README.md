@@ -1,4 +1,4 @@
-![image](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/58cbb010-e7f4-4a24-8d22-d544f2a72eb3)
+![Day 55 - Icon Set](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ab87579b-e88e-4def-bfe6-65ccfccf6019)![image](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/58cbb010-e7f4-4a24-8d22-d544f2a72eb3)
 
 # Daily UI Challenge Outputs
 
@@ -568,6 +568,25 @@ Output Link: [Dinner Reservation Confirmation](https://www.figma.com/proto/dGuNg
 Output Image:
 ![Day 54 - Confirmation](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d3088a1f-c62c-4878-93b4-a5e006ca87f1)
 
+## Day 55: Icon Set
+
+Prompt: Create some icons to be used together. It could be for a taskbar, showcasing features or services, or even for something like a shopping app. (Icons might be a cart, a shipping box, a size icon, etc.)
+ 
+Output Link: [Icon Set](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=736-309&t=LX5zyzEM2STnjjPw-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 55 - Icon Set](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/459570b6-7470-4867-8981-9a58211ad7bc)
+
+## Day 56: Breadcrumbs
+
+Prompt: Every interaction on a website or within an app is an opportunity. 
+ 
+Although a seemingly small detail, breadcrumbs are very necessary and yet often neglected in terms of their appearance and functionality. To truly achieve great design sense you need to consider even the smallest details.
+ 
+Output Link: [Breadcrumbs](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=736-647&t=AtYx7lDBqCYeSVlx-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 56 - Breadcrumbs](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4e22d2fb-e2b1-4d79-b875-7ff5ddbdd2eb)
 
 
 
