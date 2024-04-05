@@ -587,4 +587,12 @@ Output Image:
 ![Day 56 - Breadcrumbs](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4e22d2fb-e2b1-4d79-b875-7ff5ddbdd2eb)
 
 
+## Day 56: Video Player
+
+Prompt: Design a video play with all the functions needed: volume, skip, fast forward, etc. Depending on the device you'll want to consider different needs such as inputs for a TV (HDMI 1, etc.) or hover effects for a remote cursor. 
+ 
+Output Link: [Video Player](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=755-290&t=MBDHJBK6KyAS98nU-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 57 - Video Player](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/b45bed57-d119-484e-803d-a4b702588390)
 
