@@ -587,7 +587,7 @@ Output Image:
 ![Day 56 - Breadcrumbs](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4e22d2fb-e2b1-4d79-b875-7ff5ddbdd2eb)
 
 
-## Day 56: Video Player
+## Day 57: Video Player
 
 Prompt: Design a video play with all the functions needed: volume, skip, fast forward, etc. Depending on the device you'll want to consider different needs such as inputs for a TV (HDMI 1, etc.) or hover effects for a remote cursor. 
  
@@ -595,4 +595,15 @@ Output Link: [Video Player](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/D
 
 Output Image:
 ![Day 57 - Video Player](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/b45bed57-d119-484e-803d-a4b702588390)
+
+## Day 58: Shopping Cart
+
+Prompt: Some brands use a cart or bag during their checkout process. Consider the products, prices, and placement of any other required data. Do people need to create an account? Checkout as a guest? Is there shipping?
+ 
+Output Link: [Shopping Cart - Mobile Version](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=762-314&t=TW5VKazCzeIFITc1-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 58 - Shopping Cart](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4c87ec6f-73e6-47b5-8f72-be7b0ad5fdc9)
+
+
 
