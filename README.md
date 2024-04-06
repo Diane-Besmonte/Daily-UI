@@ -1,4 +1,4 @@
-# Daily UI Challenge Outputs
+![Day 60 - Color Picker](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/342ab5b2-14bc-47b1-bd4b-34557bc0b7a6)![Day 60 - Color Picker](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/bdbf563f-23db-46de-8be5-1b87dc6bba98)# Daily UI Challenge Outputs
 
 Welcome to my Daily UI Challenge repository! Here, you'll find a collection of my daily design outputs as part of the challenge. Explore my Daily UI Challenge journey, where I create simple and engaging user interfaces based on prompts I receive in my daily emails. Each design showcases my daily practice and creativity. Check out the collection and feel free to share your thoughts!
 
@@ -605,5 +605,25 @@ Output Link: [Shopping Cart - Mobile Version](https://www.figma.com/proto/dGuNgC
 Output Image:
 ![Day 58 - Shopping Cart](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4c87ec6f-73e6-47b5-8f72-be7b0ad5fdc9)
 
+## Day 59: Background Pattern
 
+Prompt: Whether an e-commerce site, a blogs, or a landing page, backgrounds are often unnoticed. How can you design a useful and beautiful one? 
+ 
+Video background? Moving patterns or textures? You decide. 
+ 
+Output Link: [Background Pattern](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=762-482&t=lMY3k7mTNiNHf4vF-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 59 - Background Pattern](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/deefa9df-a6f5-47ee-9490-ef349908eef7)
+
+## Day 60: Color Picker
+
+Prompt: What is the user doing? Designing a website? Selecting a t-shirt color? 
+ 
+Colors are an important part of product design and making it simple to select great color schemes is crucial. 
+ 
+Output Link: [Color Palette Generator](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=762-583&t=kORr8bdzuUBcupjJ-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 60 - Color Picker](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/710df583-c373-4b9e-8468-60efa405ad5f)
 
