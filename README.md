@@ -1,5 +1,3 @@
-![Day 60 - Color Picker](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/342ab5b2-14bc-47b1-bd4b-34557bc0b7a6)![Day 60 - Color Picker](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/bdbf563f-23db-46de-8be5-1b87dc6bba98)# Daily UI Challenge Outputs
-
 Welcome to my Daily UI Challenge repository! Here, you'll find a collection of my daily design outputs as part of the challenge. Explore my Daily UI Challenge journey, where I create simple and engaging user interfaces based on prompts I receive in my daily emails. Each design showcases my daily practice and creativity. Check out the collection and feel free to share your thoughts!
 
 
