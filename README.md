@@ -627,3 +627,23 @@ Output Link: [Color Palette Generator](https://www.figma.com/proto/dGuNgC7KZfhzi
 Output Image:
 ![Day 60 - Color Picker](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/710df583-c373-4b9e-8468-60efa405ad5f)
 
+## Day 61: Redeem Coupon
+Prompt: Imagine that it's time for someone to redeem a coupon. 
+ 
+It could be via an in person self-checkout screen or on a website. Think about the requirements of a coupon such as the discount percentage, the subtotal, total, and other unique features.
+ 
+Always make it easy. The last thing people want to encounter is a complex interface that adds friction to the redemption process.
+ 
+Output Link: [Discount Redeem Coupon](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=777-309&t=GiXcEIihDV9AQPvV-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 61 - Redeem Coupon](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/181abd7a-7c6e-4799-84ba-016b34b17b90)
+
+## Day 62: Workout of the day
+Prompt: (No prompt found - Received wrong daily prompt from email)
+ 
+Output Link: [Discount Redeem Coupon](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=777-309&t=GiXcEIihDV9AQPvV-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 62 - Workout of the Day GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/13cfd0d5-df8e-4f90-ae6d-bfc093e1a660)
+
