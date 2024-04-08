@@ -647,3 +647,20 @@ Output Link: [Discount Redeem Coupon](https://www.figma.com/proto/dGuNgC7KZfhzi9
 Output Image:
 ![Day 62 - Workout of the Day GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/13cfd0d5-df8e-4f90-ae6d-bfc093e1a660)
 
+## Day 63: Best of
+Prompt: “Best of” lists can be used for featured news articles, “best of …” city magazines, top selling products, best selling books, etc. 
+ 
+What's best, why, and how will you display it?
+ 
+Output Link: [Best Photos Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=790-373&t=62Bt2KDnifqx0HTl-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 63 - Best Of](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e0fb7da5-52d7-47a4-a473-913047773bf8)
+
+## Day 64: User Selection
+Prompt: Create a modal, page, toggle, or some other element to represent the selection of a user profile. It could be inside a video app, managing multiple social media accounts, a video game, or something totally unique.
+ 
+Output Link: [Select Avatar Selection](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=790-555&t=wYXscN2rEzeFByZu-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 64 - User Selection](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/1e89023e-20d8-44f9-9970-8cefa5ca9bb7)
