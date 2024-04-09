@@ -664,3 +664,24 @@ Output Link: [Select Avatar Selection](https://www.figma.com/proto/dGuNgC7KZfhzi
 
 Output Image:
 ![Day 64 - User Selection](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/1e89023e-20d8-44f9-9970-8cefa5ca9bb7)
+
+## Day 65: Notes Widget
+Prompt: We all need to record a note at some point. Whether it's a full page document, a small shopping list, or a note inside of an app 
+ 
+Create a widget to incorporate a notes feature.
+ 
+Output Link: [Notes Widget](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=805-391&t=6psOi1hDxQTtDSAT-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 65 - Notes Widget](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/16bb966f-60de-48c4-b299-7fb67a8e3db6)
+
+## Day 66: Statistics
+Prompt: Applications used for finance, engineering, sports, and even video games have tons of statistics.
+ 
+Design something to show off the top statistics.
+ 
+Output Link: [Hero Statistics](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=807-1594&t=wV6PzgwC0vLWsbPc-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 66 - Statistics](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/778fd15f-edbc-4825-a1bd-c67e52643f03)
+
