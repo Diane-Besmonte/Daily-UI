@@ -685,3 +685,13 @@ Output Link: [Hero Statistics](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUk
 Output Image:
 ![Day 66 - Statistics](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/778fd15f-edbc-4825-a1bd-c67e52643f03)
 
+## Day 67: Hotel or Vacation Rental Booking
+Prompt: Create a website, listing page, or booking reservation UI for a vacation property. 
+ 
+Consider extra elements: non-smoking rooms, security deposits, amenities, etc.
+ 
+Output Link: [Coastal Getaways Hotel Booking Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=821-434&t=PgctPqMMx6XA69wp-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 67 - Hotel or Vacation Rental Booking](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/1b4b0f67-5219-443d-bb5e-c7703b106bce)
+
