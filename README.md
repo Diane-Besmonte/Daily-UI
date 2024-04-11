@@ -1,4 +1,4 @@
-![image](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4a2a97fb-23c2-4410-9594-2f8fdf2ed165)
+![Day 68 - Flight Search](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/30e191ad-ee2e-45bc-9097-d184e2fb2985)![image](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/4a2a97fb-23c2-4410-9594-2f8fdf2ed165)
 
 Welcome to my Daily UI Challenge repository! Here, you'll find a collection of my daily design outputs as part of the challenge. Explore my Daily UI Challenge journey, where I create simple and engaging user interfaces based on prompts I receive in my daily emails. Each design showcases my daily practice and creativity. Check out the collection and feel free to share your thoughts!
 
@@ -694,4 +694,26 @@ Output Link: [Coastal Getaways Hotel Booking Page](https://www.figma.com/proto/d
 
 Output Image:
 ![Day 67 - Hotel or Vacation Rental Booking](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/1b4b0f67-5219-443d-bb5e-c7703b106bce)
+
+## Day 68: Flight Search
+Prompt: Design an app or website for either searching for flights or comparing options.
+ 
+Consider the variables: one-way, roundtrip, or multi-stop flight? Baggage fees? Making a lot of data look simple isn't easy, but it's what your users will appreciate. Millions of people travel everyday so every little detail makes a difference.
+ 
+Consider extra elements: non-smoking rooms, security deposits, amenities, etc.
+ 
+Output Link: [FlySmart Search Flights](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=821-434&t=PgctPqMMx6XA69wp-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 68 - Flight Search](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9f7b7014-6bc4-49b5-b01e-d02b3cf1479f)
+
+## Day 69: Trending
+Prompt: Create a trending list or feature. What's trending? Music, movies, stock prices, or something else? 
+ 
+Think about if it'll be the main focus or a minimal element such as a scrolling banner or notification widget.
+ 
+Output Link: [Album Trends Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=832-1093&t=YimVt8j3t1gca4Bh-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 69 - Trending GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/eca28057-15de-4efe-b1f8-3de87fda1609)
 
