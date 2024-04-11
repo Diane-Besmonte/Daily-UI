@@ -702,7 +702,7 @@ Consider the variables: one-way, roundtrip, or multi-stop flight? Baggage fees? 
  
 Consider extra elements: non-smoking rooms, security deposits, amenities, etc.
  
-Output Link: [FlySmart Search Flights](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=821-434&t=PgctPqMMx6XA69wp-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+Output Link: [FlySmart Search Flights](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=832-467&t=NGwDJ9G6h4h4xqyg-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
 ![Day 68 - Flight Search](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9f7b7014-6bc4-49b5-b01e-d02b3cf1479f)
