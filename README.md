@@ -720,7 +720,7 @@ Output Image:
 ## Day 70: Event Listing
 Prompt: Design a feature or display for upcoming events. Concerts, workshops, summer camps, seminars, or other training events. Get creative with the purpose and style. 
  
-Output Link: [Mobile Events Listing](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=832-1093&t=YimVt8j3t1gca4Bh-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+Output Link: [Mobile Events Listing](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=849-505&t=N28ST8yyFdki7EhS-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
 ![Day 70 - Event Listing GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/cc310b46-d983-4933-96f2-520d37a79b13)
