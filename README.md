@@ -717,3 +717,18 @@ Output Link: [Album Trends Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqf
 Output Image:
 ![Day 69 - Trending GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/eca28057-15de-4efe-b1f8-3de87fda1609)
 
+## Day 70: Event Listing
+Prompt: Design a feature or display for upcoming events. Concerts, workshops, summer camps, seminars, or other training events. Get creative with the purpose and style. 
+ 
+Output Link: [Mobile Events Listing](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=832-1093&t=YimVt8j3t1gca4Bh-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 70 - Event Listing GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/cc310b46-d983-4933-96f2-520d37a79b13)
+
+## Day 71: Scheduling 
+Prompt: Design elements or a full experience for a schedule. It could be for a hospital to schedule patients, a bank to schedule payments, a band's concert schedule or anything. 
+ 
+Output Link: [Scheduling / Calendar](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=854-1395&t=q7qU9UAFAbDaxAhe-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 71 - Scheduling](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f854c11a-8aa8-45a8-a6aa-af45211408fd)
