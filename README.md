@@ -732,3 +732,20 @@ Output Link: [Scheduling / Calendar](https://www.figma.com/proto/dGuNgC7KZfhzi9i
 
 Output Image:
 ![Day 71 - Scheduling](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/f854c11a-8aa8-45a8-a6aa-af45211408fd)
+
+## Day 72: Slider 
+Prompt: Create a slider design. It could be to swipe between photos in a property listing app, dating profiles, display album artwork, or a traditional slider for volume or settings.
+ 
+Output Link: [Photography Website Hero Image Slider](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=864-570&t=MGSXr6im18WcR7HM-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 72 - Slider GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/983324a5-b996-4a16-a506-67b3c9ac8985)
+
+## Day 73: Virtual Reality 
+Prompt: A headset, a screen, or the virtual controls required. Small screen real estate requires more hand gestures so be intuitive.
+ 
+Output Link: [Virtual Reality](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=866-971&t=sGxFiXIbEk4Im6VA-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 73 - Virtual Reality](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/24f4a6e8-7563-4489-97d4-35adc160581c)
+
