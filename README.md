@@ -749,3 +749,11 @@ Output Link: [Virtual Reality](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUk
 Output Image:
 ![Day 73 - Virtual Reality](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/24f4a6e8-7563-4489-97d4-35adc160581c)
 
+## Day 74: App Download
+Prompt: Create a download page, modal, form, or  screen related to downloading something. It could be for a volunteer event, contest registration, or anything you can image requiring a download.
+ 
+Output Link: [TaskMaster Download Page Hero Section](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=888-628&t=6kcck9Qy0ML02OWV-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 74 - App Download](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ab31b7fe-8a1b-4d6d-acc0-757b77779035)
+
