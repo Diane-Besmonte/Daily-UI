@@ -757,3 +757,11 @@ Output Link: [TaskMaster Download Page Hero Section](https://www.figma.com/proto
 Output Image:
 ![Day 74 - App Download](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/ab31b7fe-8a1b-4d6d-acc0-757b77779035)
 
+## Day 75: Pre-Order
+Prompt: Design a page or element to encourage pre-orders for something. It could be an upcoming book, movie, website template, etc.
+ 
+Output Link: [VRInfinity Headset Pre-Order Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=895-629&t=SSs5OHvstkp5aQfD-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 75 - Pre-Order](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/065263b2-2e08-49d0-a568-fc98c8620d70)
+
