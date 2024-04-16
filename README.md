@@ -765,3 +765,11 @@ Output Link: [VRInfinity Headset Pre-Order Page](https://www.figma.com/proto/dGu
 Output Image:
 ![Day 75 - Pre-Order](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/065263b2-2e08-49d0-a568-fc98c8620d70)
 
+## Day 76: Loading
+Prompt: What's loading? It could be a website, a movie buffering, or a super fun animation for a video game loading.
+ 
+Output Link: [Loading](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=906-737&t=VSj3ae18XxkOyzCy-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![chrome-capture](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/3a3cf7f8-0949-4e41-8e17-829b3dc87787)
+
