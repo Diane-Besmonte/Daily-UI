@@ -773,3 +773,11 @@ Output Link: [Loading](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-
 Output Image:
 ![chrome-capture](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/3a3cf7f8-0949-4e41-8e17-829b3dc87787)
 
+## Day 77: Thank You (Page or Message)
+Prompt: Thank users for downloading your app or a free eBook. Your design can be simple or funny with a GIF. :) 
+ 
+Output Link: [Thank You Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=919-636&t=gCtKk3IjglaFlWFU-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 77 - Thank You (Page or Message)](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/eb021c2f-7599-45fe-999d-e4081b71d4ab)
+
