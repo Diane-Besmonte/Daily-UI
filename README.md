@@ -781,3 +781,11 @@ Output Link: [Thank You Page](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN
 Output Image:
 ![Day 77 - Thank You (Page or Message)](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/eb021c2f-7599-45fe-999d-e4081b71d4ab)
 
+## Day 78: Invitation
+Prompt: Invite a person or team to something. It could be a wedding, a product launch party, or to join a new website.
+ 
+Output Link: [Pending Request](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=931-638&t=GkhUJlVb0FNixFjN-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 78 - Invitation](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e009eb12-6395-451e-b4dc-9dd8612c98e2)
+
