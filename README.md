@@ -789,3 +789,13 @@ Output Link: [Pending Request](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUk
 Output Image:
 ![Day 78 - Invitation](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e009eb12-6395-451e-b4dc-9dd8612c98e2)
 
+## Day 79: Itinerary
+Prompt: A packing list for Disneyland or summer camp, a course outline to learn coding, or anything. 
+ 
+What's the purpose and what do the students or attendees need?
+ 
+Output Link: [Course Outline](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=939-641&t=r7pul6v0FCfPlB5c-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 79 - Invitation](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9fd637c7-1146-4fe0-a280-cfbdc835b292)
+
