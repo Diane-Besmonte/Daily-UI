@@ -799,3 +799,11 @@ Output Link: [Course Outline](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN
 Output Image:
 ![Day 79 - Invitation](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9fd637c7-1146-4fe0-a280-cfbdc835b292)
 
+## Day 20: Date Picker
+Prompt: Create a date picker for anything. You could make it look simple or give it a wild theme.
+ 
+Output Link: [Date Picker](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=945-645&t=p0FjDR6JICYvFAd2-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 80 - Date Picker](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/26139f36-2949-4964-89ce-8bb7c4c245e6)
+
