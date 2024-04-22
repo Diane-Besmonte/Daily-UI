@@ -815,3 +815,13 @@ Output Link: [Dowmload Queue Widget](https://www.figma.com/proto/dGuNgC7KZfhzi9i
 Output Image:
 ![Day 81 - Status Update](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/0bb1e7db-8ea7-4390-a8af-49c422ff180d)
 
+## Day 82: Form
+Prompt: Forms are a vital component for websites. People sign up to attend courses, to register for courses, complete surveys, and so much more. 
+ 
+Making the forms beautiful will help encourage people to complete them. Don't overload them with too much information at once, but let them progress in small stages.
+ 
+Output Link: [Mobile Order Process Forms](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=955-654&t=8sFWeEX3erXMWfJU-1&scaling=scale-down&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 82 - Form GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/89eb8e68-532d-4de8-8d44-dde3b9539920)
+
