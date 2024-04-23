@@ -825,3 +825,15 @@ Output Link: [Mobile Order Process Forms](https://www.figma.com/proto/dGuNgC7KZf
 Output Image:
 ![Day 82 - Form GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/89eb8e68-532d-4de8-8d44-dde3b9539920)
 
+
+## Day 83: Button
+Prompt: Buttons are so simple, yet can be so fun to create.
+ 
+Gradients, hover interactions, pulsing elements, sparkles, etc.
+There's an entire world of unique buttons to explore.
+
+Output Link: [Button](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=967-716&t=R0BMBCjHTywgJN2g-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 83 - Button](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/2d473678-1a6f-462a-b5c8-8631affd4197)
+
