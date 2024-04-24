@@ -837,3 +837,14 @@ Output Link: [Button](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-U
 Output Image:
 ![Day 83 - Button](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/2d473678-1a6f-462a-b5c8-8631affd4197)
 
+## Day 84: Badge
+Prompt: Badges can be assigned to users to the number of years they've been on a platform, accomplishments they've made, etc. 
+ 
+They can be fun and information.
+
+Output Link: [Achievements Badges](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=973-751&t=hzPsC5CeQefp8FpL-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 84 - Badge](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/97193f4c-9272-449f-9b86-22a579ba09b2)
+
+
