@@ -847,4 +847,14 @@ Output Link: [Achievements Badges](https://www.figma.com/proto/dGuNgC7KZfhzi9iZy
 Output Image:
 ![Day 84 - Badge](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/97193f4c-9272-449f-9b86-22a579ba09b2)
 
+## Day 85: Pagination
+Prompt: Dealing with lots of information isn't easy. When there are hundreds of pages or components, things can get messy if there's no clear hierarchy. 
+ 
+Design a pagination look and flow to make it simple.
+
+Output Link: [Pagination](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=979-762&t=BaMkCtsKogYdvbZM-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 85 - Pagination](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9dd42d8a-1c27-4d85-8e0b-aee582f29e71)
+
 
