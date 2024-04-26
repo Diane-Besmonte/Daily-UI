@@ -857,4 +857,14 @@ Output Link: [Pagination](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Dai
 Output Image:
 ![Day 85 - Pagination](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9dd42d8a-1c27-4d85-8e0b-aee582f29e71)
 
+## Day 86: Progress
+Prompt: What's making progress and how does it work?
+ 
+It could be a progress bar showing time remaining in a movie or it could calculate the progress made reading a book. Anything you want.
+
+Output Link: [Progress](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=984-752&t=y8v7bb10PNAnAqMU-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 86 - Progress GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/6b8f9899-9127-4680-b3a1-42c63832cde2)
+
 
