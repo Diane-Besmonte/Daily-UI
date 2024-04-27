@@ -867,4 +867,11 @@ Output Link: [Progress](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily
 Output Image:
 ![Day 86 - Progress GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/6b8f9899-9127-4680-b3a1-42c63832cde2)
 
+## Day 87: Avatar
+Prompt: Design an avatar. It could be for company logos or photos of an app's users. Take into consideration the corner rounding, size, placement, etc.
+
+Output Link: [Avatar](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=995-854&t=yCtP79G8mL9dgcfg-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 87 - Avatar](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d8d69617-b68c-4b8f-a640-692ea1fea958)
 
