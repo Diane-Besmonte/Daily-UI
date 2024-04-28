@@ -875,3 +875,11 @@ Output Link: [Avatar](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-U
 Output Image:
 ![Day 87 - Avatar](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d8d69617-b68c-4b8f-a640-692ea1fea958)
 
+## Day 88: Tooltip
+Prompt: (No prompt found - Received wrong daily prompt from email)
+
+Output Link: [Tooltip](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1002-854&t=iq6qOXtwYpHWtLM0-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 88 - Tooltip](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d0904d54-afbe-448c-878d-394b59ca28c0)
+
