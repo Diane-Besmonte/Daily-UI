@@ -883,3 +883,13 @@ Output Link: [Tooltip](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-
 Output Image:
 ![Day 88 - Tooltip](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/d0904d54-afbe-448c-878d-394b59ca28c0)
 
+## Day 89: Agree to Terms
+Prompt: Almost every app or website has legal terms. Signing up for a new product will generally require that users agree to the Terms of Service. 
+ 
+It's not glamorous, but it's important. :)
+
+Output Link: [Agree to Terms](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1008-868&t=MCbPUpQ6X6GCN0RJ-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 89 - Agree to Terms](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/b28ded89-4a88-4e07-9777-653f80e19d25)
+
