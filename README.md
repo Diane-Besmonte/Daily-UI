@@ -893,3 +893,10 @@ Output Link: [Agree to Terms](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN
 Output Image:
 ![Day 89 - Agree to Terms](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/b28ded89-4a88-4e07-9777-653f80e19d25)
 
+## Day 90: Create New
+Prompt: Create a design for a user to create something. Maybe it's a new document, a new design file, or a component such as creating a new column in a spreadsheet.
+
+Output Link: [Create New Book Review Entry](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1016-857&t=hrma1bpF2D80F2WD-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 90 - Create New](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/c222dc3f-c2ea-41ba-93fd-c153bcc96370)
