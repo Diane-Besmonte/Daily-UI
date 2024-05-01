@@ -900,3 +900,14 @@ Output Link: [Create New Book Review Entry](https://www.figma.com/proto/dGuNgC7K
 
 Output Image:
 ![Day 90 - Create New](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/c222dc3f-c2ea-41ba-93fd-c153bcc96370)
+
+## Day 91: Curated for You
+Prompt: Design something that's been personalized such as a newsfeed, timeline, user profile, etc. 
+ 
+It could even be book, travel, or product recommendations based on your purchases or browsing history.
+
+Output Link: [Curated For You](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1023-868&t=d6jnq7qpizlyZCoC-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 91 - Curated for You](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e57286f0-7f5b-4125-976f-3c3403da7e03)
+
