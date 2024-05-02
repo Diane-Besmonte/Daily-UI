@@ -911,3 +911,13 @@ Output Link: [Curated For You](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUk
 Output Image:
 ![Day 91 - Curated for You](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e57286f0-7f5b-4125-976f-3c3403da7e03)
 
+## Day 92: Frequently Asked Questions
+Prompt: Create some designs for an FAQ widget, section, or full page.
+ 
+Everyone has questions about products and brands that make answers easy to find are amazing. Happy customers, happy business.
+
+Output Link: [Frequently Asked Questions](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1030-865&t=xM5F1Dgdc86Qsr8J-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 92 - Frequently Asked Questions](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/21a9791d-529d-4b89-8f98-c5b70521cb31)
+
