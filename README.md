@@ -921,3 +921,13 @@ Output Link: [Frequently Asked Questions](https://www.figma.com/proto/dGuNgC7KZf
 Output Image:
 ![Day 92 - Frequently Asked Questions](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/21a9791d-529d-4b89-8f98-c5b70521cb31)
 
+## Day 93: Splash Screen
+Prompt: Splash screens tend to occur right after someone opens an app. 
+ 
+It's easy to overlook, but making a great first impression with your users is essential to building trust.
+
+Output Link: [GearWorks Splash Screen](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1039-870&t=A40lhDAZljzdxCOS-1&scaling=scale-down&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 93 - Splash Screen GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/60fabd7f-de25-482a-849f-52a21500b455)
+
