@@ -931,3 +931,13 @@ Output Link: [GearWorks Splash Screen](https://www.figma.com/proto/dGuNgC7KZfhzi
 Output Image:
 ![Day 93 - Splash Screen GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/60fabd7f-de25-482a-849f-52a21500b455)
 
+## Day 94: News
+Prompt: News is occurring all around the world at all times. There's an ocean of content constantly being created.
+ 
+Design a nice interface for reading the news.
+
+Output Link: [GlobalChronicle News](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1048-870&t=mmZUJsM48IEINReS-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 94 - News](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/93e0c986-b485-4a8a-b2b4-2fbdf73859ab)
+
