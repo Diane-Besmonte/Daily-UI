@@ -941,3 +941,13 @@ Output Link: [GlobalChronicle News](https://www.figma.com/proto/dGuNgC7KZfhzi9iZ
 Output Image:
 ![Day 94 - News](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/93e0c986-b485-4a8a-b2b4-2fbdf73859ab)
 
+
+## Day 95: Product Tour
+Prompt: What product is being showcased? Is it a physical product like a shoe or piece of art? Or is it a digital product? 
+ 
+Whatever it is, it's up to you. Consider the most important features and use cases for the product.
+
+Output Link: [TaskPro Product Tour]()
+
+Output Image:
+
