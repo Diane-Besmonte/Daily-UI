@@ -842,7 +842,7 @@ Prompt: Badges can be assigned to users to the number of years they've been on a
  
 They can be fun and information.
 
-Output Link: [Achievements Badges](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=973-751&t=hzPsC5CeQefp8FpL-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+Output Link: [Achievement Badges](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=973-751&t=hzPsC5CeQefp8FpL-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
 ![Day 84 - Badge](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/97193f4c-9272-449f-9b86-22a579ba09b2)
@@ -941,13 +941,21 @@ Output Link: [GlobalChronicle News](https://www.figma.com/proto/dGuNgC7KZfhzi9iZ
 Output Image:
 ![Day 94 - News](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/93e0c986-b485-4a8a-b2b4-2fbdf73859ab)
 
-
 ## Day 95: Product Tour
 Prompt: What product is being showcased? Is it a physical product like a shoe or piece of art? Or is it a digital product? 
  
 Whatever it is, it's up to you. Consider the most important features and use cases for the product.
 
-Output Link: [TaskPro Product Tour]()
+Output Link: [TaskPro Product Tour](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1056-887&t=IZDTGImm3HGpQcTr-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
+![Day 95 - Product Tour GIF](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/9291c784-11e7-4bbd-9dff-a9974f8b50e8)
+
+## Day 96: Currently In Stock
+Prompt: Design a display, sequence or something related to items that are in stock (available). It could be food services, products, or inventory of another type.
+
+Output Link: [Currently In Stock](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1062-929&t=Ok3geTaZZFmdm1ja-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 96 - Product Tour](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/fa5ab6ae-844c-4505-82e6-90203dc7ce2d)
 
