@@ -959,3 +959,14 @@ Output Link: [Currently In Stock](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyq
 Output Image:
 ![Day 96 - Product Tour](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/fa5ab6ae-844c-4505-82e6-90203dc7ce2d)
 
+## Day 97: Giveaway
+Prompt: Product giveaways are fun for brands and for customers.
+ 
+Imagine a product you'd like to have and how you'd display it to incentivize customers to join.
+
+Output Link: [Luxury Watch Giveaway](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1074-905&t=dZpN8c9kFLtHBjmr-0&scaling=min-zoom&page-id=0%3A1)
+
+Output Image:
+![Day 97 - Giveaway](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/32b58b4f-8596-44e3-b362-dad0bebe647c)
+
+
