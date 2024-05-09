@@ -973,8 +973,17 @@ Output Image:
 Prompt: Not everyone likes seeing ads, but they're crucial for some products. Funny ads or inspiring ones tend to be remembered. 
  
 Think of the products being offered and their intended audience.
+
 Output Link: [ABC Coffee Advertisement](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1089-914&t=zKoyItj8rbJ36fVK-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
 ![Day 98 - Advertisement](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/18992d09-a453-4e73-8395-e21b01943be7)
+
+## Day 99: Categories
+Prompt: Design a way to display different things such as people, photos, plants, products, etc. into different categories.
+
+Output Link: [Resources Categories](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1095-918&t=pnT3TJzc7nj8dzmu-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 99 - Categories](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/084bda10-f3bd-4138-904f-a350d40037e1)
 
