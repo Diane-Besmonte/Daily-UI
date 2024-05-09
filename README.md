@@ -969,4 +969,12 @@ Output Link: [Luxury Watch Giveaway](https://www.figma.com/proto/dGuNgC7KZfhzi9i
 Output Image:
 ![Day 97 - Giveaway](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/32b58b4f-8596-44e3-b362-dad0bebe647c)
 
+## Day 98: Advertisement
+Prompt: Not everyone likes seeing ads, but they're crucial for some products. Funny ads or inspiring ones tend to be remembered. 
+ 
+Think of the products being offered and their intended audience.
+Output Link: [ABC Coffee Advertisement](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1089-914&t=zKoyItj8rbJ36fVK-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
+Output Image:
+![Day 98 - Advertisement](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/18992d09-a453-4e73-8395-e21b01943be7)
 
