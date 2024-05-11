@@ -994,6 +994,9 @@ You could also redesign anything you'd like. :)
  
 You've made it to day 100, but what's next? 😏
 
-Output Link: [Daily UI Redesign]()
+Output Link: [Daily UI Redesign](https://www.figma.com/proto/dGuNgC7KZfhzi9iZyqfUkN/Daily-UI-Challenges?type=design&node-id=1105-920&t=iRF0OTTyks9FTEcx-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
 Output Image:
+![Day 100 - Redesign Daily UI](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/e8677d72-6227-4a66-8d75-30bb783a92d5)
+---
+![image](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/b33131b0-31ea-45b3-aa22-f65273b4c0ad)
