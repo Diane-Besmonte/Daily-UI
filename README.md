@@ -987,3 +987,13 @@ Output Link: [Resources Categories](https://www.figma.com/proto/dGuNgC7KZfhzi9iZ
 Output Image:
 ![Day 99 - Categories](https://github.com/Diane-Besmonte/Daily-UI/assets/30884130/084bda10-f3bd-4138-904f-a350d40037e1)
 
+## Day 100: Redesign Daily UI
+Prompt: What would you change about the homepage? Or the design prompts? 
+ 
+You could also redesign anything you'd like. :) 
+ 
+You've made it to day 100, but what's next? 😏
+
+Output Link: [Daily UI Redesign]()
+
+Output Image:
